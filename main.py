@@ -87,7 +87,7 @@ TOKEN = "8411663176:AAGMVVfvQiFXR-dvyil5XYZsgRtvda44fck"
 ADMIN_ID = 8287678319
 JWT_TOKEN = None
 
-FORCED_CHANNEL_ID = -1003886614381
+FORCED_CHANNEL_ID = -5283850403
 last_token_update_time = 0
 APPROVED_GROUPS_FILE = "approved_groups.json"
 GROUP_EXPIRY_FILE = "group_expiry.json"
