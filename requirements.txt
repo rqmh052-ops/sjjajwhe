@@ -6,3 +6,4 @@ pycryptodome
 google_play_scraper
 protobuf
 Werkzeug
+python-telegram-bot==20.7
